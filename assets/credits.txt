@@ -1,0 +1,9 @@
+Thanks to kxmylo at 
+http://www.iconarchive.com/show/simple-icons-by-kxmylo/utilities-terminal-icon.html
+for offering under GPL2 this application icon.
+
+Also thanks to chjj at
+https://github.com/chjj/tty.js/ for this wonderful application
+we packaged and delivered along xyos distro.
+
+Valencia, April 2015 :]
