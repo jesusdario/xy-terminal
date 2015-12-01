@@ -1,5 +1,5 @@
 {
-  "name": "xy-terminal",
+  "name": "terminal",
   "version": "1.0.0",
   "description": "Web ssh access, made from tty.js",
   "main": "main.js",
@@ -11,8 +11,12 @@
     "test": "./main.js --port 31416"
   },
   "keywords": [
-    "xway",
+    "terminal",
+    "app",
     "iot",
+    "raspberry",
+    "raspberrypi",
+    "netbeast.co",
     "netbeast"
   ],
   "logo" : "assets/icon.png",
