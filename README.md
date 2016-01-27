@@ -1,8 +1,13 @@
-## App package.json example
+## Netbeast App package.json example
+
+The **package.json** of a npm module is its manifest, and that is all Netbeast apps need to be recognized as one of them
+and be launched on netbeast dashboard.
+
+http://docs.netbeast.co
 
 ```json
 {
-  "name": "xy-terminal",
+  "name": "netbeast-terminal-app",
   "version": "1.0.0",
   "description": "Web ssh access, made from tty.js",
   "main": "main.js",
@@ -14,7 +19,8 @@
     "test": "./main.js --port 31416"
   },
   "keywords": [
-    "xway",
+    "web-ssh",
+    "ssh",
     "iot",
     "netbeast"
   ],
